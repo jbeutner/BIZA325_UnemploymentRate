@@ -1,3 +1,4 @@
+###Important information about model and model variables:
 
 #This is a multiple linear regression model attempting to predict US unemployment rate based on a variety of economic and entrepreneurship data from NBER, BLS, and the Ewing Marion Kauffman Foundation's Kauffman Index.
 
